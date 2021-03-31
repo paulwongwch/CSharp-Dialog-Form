@@ -1,0 +1,15 @@
+C:\Users\paulw\source\repos\dialogForm\dialogForm\bin\Debug\netcoreapp3.1\dialogForm.exe
+C:\Users\paulw\source\repos\dialogForm\dialogForm\bin\Debug\netcoreapp3.1\dialogForm.deps.json
+C:\Users\paulw\source\repos\dialogForm\dialogForm\bin\Debug\netcoreapp3.1\dialogForm.runtimeconfig.json
+C:\Users\paulw\source\repos\dialogForm\dialogForm\bin\Debug\netcoreapp3.1\dialogForm.runtimeconfig.dev.json
+C:\Users\paulw\source\repos\dialogForm\dialogForm\bin\Debug\netcoreapp3.1\dialogForm.dll
+C:\Users\paulw\source\repos\dialogForm\dialogForm\bin\Debug\netcoreapp3.1\dialogForm.pdb
+C:\Users\paulw\source\repos\dialogForm\dialogForm\obj\Debug\netcoreapp3.1\dialogForm.csprojAssemblyReference.cache
+C:\Users\paulw\source\repos\dialogForm\dialogForm\obj\Debug\netcoreapp3.1\dialogForm.Form1.resources
+C:\Users\paulw\source\repos\dialogForm\dialogForm\obj\Debug\netcoreapp3.1\dialogForm.csproj.GenerateResource.cache
+C:\Users\paulw\source\repos\dialogForm\dialogForm\obj\Debug\netcoreapp3.1\dialogForm.AssemblyInfoInputs.cache
+C:\Users\paulw\source\repos\dialogForm\dialogForm\obj\Debug\netcoreapp3.1\dialogForm.AssemblyInfo.cs
+C:\Users\paulw\source\repos\dialogForm\dialogForm\obj\Debug\netcoreapp3.1\dialogForm.csproj.CoreCompileInputs.cache
+C:\Users\paulw\source\repos\dialogForm\dialogForm\obj\Debug\netcoreapp3.1\dialogForm.dll
+C:\Users\paulw\source\repos\dialogForm\dialogForm\obj\Debug\netcoreapp3.1\dialogForm.pdb
+C:\Users\paulw\source\repos\dialogForm\dialogForm\obj\Debug\netcoreapp3.1\dialogForm.genruntimeconfig.cache
